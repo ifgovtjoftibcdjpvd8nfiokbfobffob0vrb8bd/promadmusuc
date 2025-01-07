@@ -64,8 +64,8 @@ def stream_markup_timer(_, chat_id, played, dur):
          InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",)
         ],
         [
-            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/RIYA_NETWORK",),
-            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/RIYA_CHAT_SUPPORT",),
+            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/l_dil_ki_baat_l",),
+            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/l_apni_duniya_l",),
         ],
         [
             InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
